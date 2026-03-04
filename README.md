@@ -47,4 +47,4 @@ FlappyBird/
 
 ## 👨‍💻 Author
 
-Mahmud Bekkar
+Mahmoud Bakar
